@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/javier/ROS_catkin_ws/moveit_ws/devel/.private/moveit_tutorials/setup.sh

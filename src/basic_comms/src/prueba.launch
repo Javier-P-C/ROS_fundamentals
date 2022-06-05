@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!-- Start Launch Code -->
+<launch>
+	<!-- Run a listener -->
+	<node name="talker" pkg="basic_comms" type="talker.py" output="screen"/>
+	<node name="listener" pkg="basic_comms" type="listener.py" output="screen"/>
+</launch>
